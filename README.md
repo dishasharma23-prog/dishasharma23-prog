@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 # Hey, I'm Disha 👋
@@ -62,7 +60,7 @@
 
 ---
 
-### 💸 [AgentPay](https://github.com/dishasharma23-prog/AgentPay) · [Live demo](https://agent-pay-eta.vercel.app)
+### 💸 [AgentPay](https://github.com/dishasharma23-prog/AgentPay)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -72,7 +70,7 @@
 
 - Interactive simulation of agent permissions, budgets, escrow, transactions and settlement
 - The user always owns the funds, and agents operate inside explicit limits
-- *Demo only: no real funds are moved.*
+- *Simulation only: no real funds are moved.*
 
 ---
 
@@ -132,17 +130,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Also working with:** RAG · ChromaDB · Gemini · Mininet · Ryu · OpenFlow · Cloudinary · Vercel · Render
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dishasharma23-prog&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishasharma23-prog&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 
