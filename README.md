@@ -135,7 +135,7 @@
 
 <div align="center">
 
-**Thanks for stopping by. If something here interests you, say hi or drop a ⭐**
+**Thanks for stopping by. **
 
 ![Profile views](https://komarev.com/ghpvc/?username=dishasharma23-prog&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
 
